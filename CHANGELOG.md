@@ -1,5 +1,16 @@
 # Changelog
 
+## [0.8.2](https://github.com/lewis6991/gitsigns.nvim/compare/v0.8.1...v0.8.2) (2024-05-22)
+
+
+### Bug Fixes
+
+* **attach:** allow attaching inside .git/ ([9cafac3](https://github.com/lewis6991/gitsigns.nvim/commit/9cafac31a091267838e1e90fd6e083d37611f516)), closes [#923](https://github.com/lewis6991/gitsigns.nvim/issues/923)
+* **update:** always get object contents from object names ([a28bb1d](https://github.com/lewis6991/gitsigns.nvim/commit/a28bb1db506df663b063cc63f44fbbda178255a7)), closes [#847](https://github.com/lewis6991/gitsigns.nvim/issues/847)
+* use latest api in 0.10 ([bc933d2](https://github.com/lewis6991/gitsigns.nvim/commit/bc933d24a669608968ff4791b14d2d9554813a65))
+* **util:** close file after reading ([f65d1d8](https://github.com/lewis6991/gitsigns.nvim/commit/f65d1d82013e032ca6c199b62f08089b420b068c))
+* wrong api name in stable ([805610a](https://github.com/lewis6991/gitsigns.nvim/commit/805610a9393fa231f2c2b49cb521bfa413fadb3d))
+
 ## [0.8.1](https://github.com/lewis6991/gitsigns.nvim/compare/v0.8.0...v0.8.1) (2024-04-30)
 
 
